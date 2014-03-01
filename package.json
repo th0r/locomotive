@@ -37,7 +37,7 @@
     "commander": "2.x.x",
     "co-prompt": "1.x.x",
     "express": "3.x.x",
-    "actionrouter": "0.1.x",
+    "actionrouter": "git://github.com/th0r/node-actionrouter.git#resource-action-helpers-fix",
     "bootable": "0.2.x",
     "bootable-environment": "0.2.x",
     "parent-require": "1.x.x",
